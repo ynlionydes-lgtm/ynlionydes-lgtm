@@ -184,7 +184,7 @@ Every system I build runs in production with **real users, real payments, and ze
   <img src="https://img.shields.io/badge/01-EA4B71?style=flat-square&labelColor=0D1117" />
   <strong>AI Dental SaaS — Voice Booking, Stripe Payments & Full Admin</strong>
   &nbsp;
-  <a href="https://github.com/lionides858/pure-dintal-project"><img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ynlionydes-lgtm/pure-Digital-Dental-Clinic"><img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
 </summary>
 <br/>
 
